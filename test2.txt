@@ -1,3 +1,0 @@
-Hello Git, This is my 2nd file using develop branch
-
-Happy to use git.
